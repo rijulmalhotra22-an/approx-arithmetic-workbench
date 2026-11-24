@@ -2,7 +2,7 @@
 
 Interactive evaluation workbench for the capstone **"Design of a Dynamic Accuracy Configurable Arithmetic Unit for Energy-Efficient Image Processing Applications"**, ECE Dept., Thapar Institute of Engineering & Technology. Supervisor: Dr. Bharat Garg.
 
-Team: Chaitanya Goyal, Kushal Tandon, Nia Malik, Rijul Malhotra, Tanisha Lal, Tushar Yadav.
+Team: Chaitanya Goyal, Nia Malik, Rijul Malhotra, Tanisha Lal, Tushar Yadav.
 
 ## What it does
 - **Adder Lab**: 23 adders (exact, approximate, and our WA-SASC/T). Compare ER, NMED, MRED, bias and a unit-gate area/delay estimate.
